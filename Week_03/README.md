@@ -15,6 +15,11 @@
 - stepper 
 - image view
 
+**Move View**
+
+- move a view to prevent the keyboard from covering a text field
+- in this example, we use a text field delegate
+
 **TextView View**
 
 - text view
