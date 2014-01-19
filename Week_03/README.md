@@ -14,3 +14,14 @@
 - switch 
 - stepper 
 - image view
+
+**TextView View**
+
+- text view
+- display only, NOT editable
+- scrollable, multi-line, for lots of text
+
+**TextView Edit**
+
+- text view, editable
+- requires a delegate object
