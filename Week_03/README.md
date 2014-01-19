@@ -1,16 +1,16 @@
 ### Week 3 code samples
 
-**Strings**
+**First iOS App**
 
-- OS X app
-- work with NSString class 
-- do round-trip string to number to string conversions
-- string concatenation
-- simple arithmetic
+- round-trip user input
+- text field, button, label
+- outlet and action
 
-**Files**
+**UI Controls**
 
-- OS X app
-- work with NSFileManager class
-- message-passing (i.e. method invoking) syntax
-- work with an NSArray collection object
+- common user interface objects
+- segmented control 
+- slider 
+- switch 
+- stepper 
+- image view
