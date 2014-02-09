@@ -46,3 +46,12 @@ This app uses a special picker view that's designed to work with dates.
 Features:
 - does not need a data source or delegate.
 - can be configured in the Attributes Inspector.
+
+**Picker Multi**
+
+In this example app, we use a multi-component picker to choose a pizza.
+
+Features:
+- there are three components
+- each component's data is provided by a separate array
+- the arrays are initialized in a model object
