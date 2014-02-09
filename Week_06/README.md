@@ -24,3 +24,13 @@ Features:
 - custom view and controller
 - defines a protocol to be adopted by a host controller
 - custom class that defines an object that can hold a "selected" state
+
+**CD Simple**
+
+The purpose is to show a BEST PRACTICE implementation of a Core Data stack.
+
+Features:
+- uses the simple "Event" entity that comes with a templated project
+- Core Data objects are in a CDStack class
+- Model class remains responsible for the app's data
+- app delegate is clean
