@@ -30,3 +30,19 @@
 
 - text view, editable
 - requires a delegate object
+
+**Picker**
+
+A UIPickerView is a user interface control that has one or more spinning wheel components. 
+
+Features:
+- picker view requires a data source
+- picker view requires a delegate
+
+**Picker Date**
+
+This app uses a special picker view that's designed to work with dates.
+
+Features:
+- does not need a data source or delegate.
+- can be configured in the Attributes Inspector.
