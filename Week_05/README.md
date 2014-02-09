@@ -1,8 +1,10 @@
 ### Week 5 code samples
 
-**TBA**
+**Tab Intro**
 
-Description.
+Tab Intro shows you how to create a tab-based app. 
 
 Features:
-- points
+- uses the Tabbed Application template
+- adds a third view and controller
+- app delegate pattern for passing the model object reference
