@@ -42,12 +42,3 @@ The purpose of CD Types is to show how to work with the full range of data types
 Features:
 - range of data types
 - learn about a value transformer
-
-**Classes**
-
-If you wish, you can use this as a "template". 
-
-Features:
-- Core Data
-- CDStack class
-- clean app delegate
