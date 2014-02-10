@@ -9,6 +9,15 @@ Features
 - no changes were made to the project
 - comments explain what's going on
 
+**NavBuild**
+
+Two-level navigation-based app that we built ourselves.
+
+Features:
+- started with the Single View Application template
+- added the components manually
+- still not a best practice, but it does show you the pieces involved
+
 **TVS Single**
 
 Table view, select, single item selection.
