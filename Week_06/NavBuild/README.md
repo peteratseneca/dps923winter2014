@@ -24,19 +24,19 @@ Then, click-drag-drop a Navigation Controller. That action creates a table view 
 Next, click-drag-drop a View Controller, which will be used for the detail.
 
 Table view controller scene configuration actions:
-1. Set its identity to ColourList
-2. Set its title (on the nav bar) 
-3. Click/select the table view cell prototype; in the Attributes Inspector, Style=Basic, Identifier=Cell
-4. Control+click-drag to the details scene to create a Selection Segue > push; in the segue's Attributes inspector, set its Identifier=toColourDetail
+* Set its identity to ColourList
+* Set its title (on the nav bar) 
+* Click/select the table view cell prototype; in the Attributes Inspector, Style=Basic, Identifier=Cell
+* Control+click-drag to the details scene to create a Selection Segue > push; in the segue's Attributes inspector, set its Identifier=toColourDetail
 
 View controller scene configuration actions:
-1. Set its identity to ColourDetail
-2. Add user interface object(s) that will render content (e.g. a Label)
-3. Create outlet(s) to the ColourDetail.h code file
+* Set its identity to ColourDetail
+* Add user interface object(s) that will render content (e.g. a Label)
+* Create outlet(s) to the ColourDetail.h code file
 
 ColourList controller actions:
-1. In a "class extension", define an array property to hold data
-2. In the viewDidLoad method, initialize the array with data
-3. In the table view delegate and data source methods, return data as specified
-4. Add an #import "ColourDetail.h" statement to the source code
-5. Add a prepareForSegue:sender method, to prepare and configure the destination view controller
+* In a "class extension", define an array property to hold data
+* In the viewDidLoad method, initialize the array with data
+* In the table view delegate and data source methods, return data as specified
+* Add an #import "ColourDetail.h" statement to the source code
+* Add a prepareForSegue:sender method, to prepare and configure the destination view controller

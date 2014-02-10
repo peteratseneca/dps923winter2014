@@ -18,6 +18,14 @@ Features:
 - added the components manually
 - still not a best practice, but it does show you the pieces involved
 
+**NavModel**
+
+Two-level navigation-based app that we built ourselves.
+
+Features:
+- based on a copy of the NavBuild example app
+- uses a best practice model object
+
 **TVS Single**
 
 Table view, select, single item selection.
