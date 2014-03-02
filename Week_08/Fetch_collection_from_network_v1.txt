@@ -1,0 +1,25 @@
+// Custom getter for a collection that's fetched from the network
+- (NSArray *)fetchedCollection
+{
+    // If the data exists, return it
+    if (_fetchedCollection) { return _fetchedCollection; }
+    
+    // Otherwise, must fetch the data...
+    
+    // Initialize an empty array
+    _fetchedCollection = [[NSArray alloc] init];
+    
+    // Configure the URL string
+    
+    // Create a session configuration object
+    
+    // Create a session object
+    
+    // Create a request object; configure it
+    
+    // Define a network task; configure it
+    
+    // Execute the network task
+    
+    return _fetchedCollection;
+}
