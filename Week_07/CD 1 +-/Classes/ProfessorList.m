@@ -186,7 +186,6 @@
         case NSFetchedResultsChangeDelete:
             [tableView deleteRowsAtIndexPaths:@[indexPath] withRowAnimation:UITableViewRowAnimationFade];
             break;
-            
     }
 }
 
