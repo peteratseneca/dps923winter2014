@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13C64" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Program" representedClassName="Program" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="credential" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="objectDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="objectIdentifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="semesters" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Program" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>
