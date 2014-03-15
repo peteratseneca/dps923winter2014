@@ -1,13 +1,3 @@
-### Week 9 code samples
-
-**Login**
-
-Shows how to implement a "login" scene.
-
-Features:
-- based on ClassesV4
-- useful for the programming assignment
-
 **CD Types V2**
 
 This is based on CD Types from week 6.
