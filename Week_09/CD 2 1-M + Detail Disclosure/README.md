@@ -1,21 +1,3 @@
-### Week 9 code samples
-
-**Login**
-
-Shows how to implement a "login" scene.
-
-Features:
-- based on ClassesV4
-- useful for the programming assignment
-
-**CD Types V2**
-
-This is based on CD Types from week 6.
-
-Features:
-- its AlbumList scene includes small-sized images
-- the images are generated on-the-fly by an extension method ("Category") defined in the UIImage+Resizing category
-
 **CD 2 1-M +**
 
 The purpose of the app is to show you how to work with MULTIPLE entities in an object model.
@@ -29,3 +11,6 @@ Features:
 - list of Albums, drill down to...
 - list of Songs, drill down to...
 - song detail, on a standard view controller
+
+(This is an older app, which needs modernizing/refreshing.)  
+(It was created with Xcode 4.3 for iOS 5.1 SDK in June 2012.)
