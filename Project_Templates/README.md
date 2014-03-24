@@ -1,5 +1,11 @@
 ### Project templates
 
+**ClassesV4a**
+
+Posted on 2014-03-24.  
+
+Minor improvements to Model and WebServiceRequest classes.  
+
 **ClassesV4**
 
 Posted on 2014-03-14.

@@ -1,0 +1,22 @@
+
+Typical add-edit method
+Use in a table view controller
+
+- (void)EditENTITYController:(id)controller didEditItem:(id)item
+{
+    // Add a new object to the store, only if an object was passed in
+    // Can perform additional business logic and validation here too
+    if (item)
+    {
+        NSDictionary *d = (NSDictionary *)item;
+        
+        // Create and configure a new ENTITY object
+        EntityName *newItem = [self.model addNew:"@EntityName"];
+        // Set the properties
+        
+        [self.model saveChanges];
+    }
+    // Dismiss the modal view controller
+    [controller dismissViewControllerAnimated:YES completion:NULL];
+}
+
