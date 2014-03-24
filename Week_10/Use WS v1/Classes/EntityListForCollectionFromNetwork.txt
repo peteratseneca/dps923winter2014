@@ -1,0 +1,7 @@
+
+This code can be used for a table view controller
+that uses a collection from the network 
+as its data source
+
+After you create a new table view controller,
+you can copy-paste the code below
